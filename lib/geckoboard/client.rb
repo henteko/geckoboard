@@ -1,7 +1,7 @@
 require 'httparty'
 require 'json'
 
-module Geckboard
+module Geckoboard
   class Client
     include HTTParty
     base_uri 'https://push.geckoboard.com'

@@ -1,5 +1,5 @@
 require "geckoboard/version"
+require "geckoboard/client"
 
 module Geckoboard
-  # Your code goes here...
 end
