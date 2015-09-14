@@ -38,5 +38,5 @@ client.push('your_text_widget_key', text_widget_data)
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/geckoboard.
+Bug reports and pull requests are welcome on GitHub at https://github.com/henteko/geckoboard.
 
